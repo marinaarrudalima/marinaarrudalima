@@ -11,7 +11,9 @@
 
 - 📧 How to reach me **marinaarrudalima@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/marinaarrudalima/](https://www.linkedin.com/in/marinaarrudalima/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/marinaarrudalima/)
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://troopl.com/marinaarrudalima)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
