@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina Lima</h1>
 <h3 align="center">A Full-Stack Developer from London, United Kingdom.</h3>
 
-- 🔭 I’m currently working on [Ellaa](https://ellaa.app)
+- 🔭 I’m currently working on [Ellaa](https://ellaa.link/VtvP79y)
 
 - 📚 I’m currently learning **React, TypeScript, NextJS**
 
